@@ -83,7 +83,7 @@ class HairStylist extends StatelessWidget {
                               ],
                             ),
                             const Text(
-                              "5 years experiense",
+                              "5 years experience",
                               style: TextStyle(
                                 fontSize: 15,
                               ),
@@ -139,7 +139,7 @@ class HairStylist extends StatelessWidget {
                               ],
                             ),
                             const Text(
-                              "4 years experiense",
+                              "4 years experience",
                               style: TextStyle(
                                 fontSize: 15,
                               ),
